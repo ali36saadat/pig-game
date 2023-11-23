@@ -6,6 +6,8 @@
 
 This project is related to section 7 of Jonas's course, focusing on working with the Document Object Model (DOM). Additionally, it include one exciting extra game mode. you can play with BOT, definitely give it a try 😃.
 
+# Detail
+
 - 🔗 [Demo Project](https://ali36saadat.github.io/pig-game/)
   
 - 👨🏻‍💻 Developed by : Ali Saadat
